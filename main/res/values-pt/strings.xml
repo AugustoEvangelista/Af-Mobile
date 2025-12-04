@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lembrete de Remédios</string>
+    <string name="name">Nome</string>
+    <string name="description">Descrição</string>
+    <string name="pick_time">Escolher horário</string>
+    <string name="save">Salvar</string>
+    <string name="saved">Salvo</string>
+    <string name="deleted">Removido</string>
+    <string name="fill_required">Preencha nome e horário</string>
+    <string name="take_medicine">Hora de tomar o remédio</string>
+</resources>

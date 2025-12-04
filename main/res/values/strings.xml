@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Med Tracker</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="pick_time">Pick time</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="deleted">Deleted</string>
+    <string name="fill_required">Please fill name and time</string>
+    <string name="take_medicine">Time to take medicine</string>
+</resources>
