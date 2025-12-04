@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734913647440",
+    "project_id": "afmobile-98e09",
+    "storage_bucket": "afmobile-98e09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734913647440:android:d92a2667aad8500bf15255",
+        "android_client_info": {
+          "package_name": "com.example.medicamentos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSY8GgwO_ADHhp2KgslNmb9RoHRFqjlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
